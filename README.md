@@ -1,5 +1,5 @@
 <h1>Hi 👋, Lukáš Nedbal</h1>
-# 💫 About Me:
+
 I'm Lukáš Nedbal, a front-end developer who loves building beautiful and functional web applications. <br>Clean code and great design matter to me, and I'm always looking for ways to improve the user experience.
 
 # 💻 Tech Stack:
